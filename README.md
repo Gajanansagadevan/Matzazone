@@ -1,6 +1,6 @@
 # MatzaZone 📐
 
-Website link - https://gajanansagadevan.github.io/Matzazone/contact-us.html
+Website link - https://gajanansagadevan.github.io/Matzazone/
 
 A mathematics educational website dedicated to theorems, famous mathematicians, and the history of mathematics.
 
